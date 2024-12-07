@@ -1,7 +1,3 @@
-Here’s a detailed and professional **README** for your Self-Driving Car Simulator project:
-
----
-
 # Self-Driving Car Simulator 🚗💨
 
 A simulation system designed to model the behavior of autonomous vehicles. This project leverages cutting-edge technologies in computer vision, deep learning, and reinforcement learning to enable self-driving cars to navigate virtual environments with lane detection, obstacle avoidance, and path planning.
@@ -127,7 +123,3 @@ Feel free to reach out for questions or collaboration opportunities!
 
 - **Email:** [robsaidov@gmail.com](mailto:robsaidov@gmail.com)
 - **LinkedIn:** [linkedin.com/in/robsaidov](https://linkedin.com/in/robsaidov)
-
----
-
-Feel free to modify the sections to better suit your needs or provide additional details. Let me know if you'd like help generating the `requirements.txt` file or anything else!
